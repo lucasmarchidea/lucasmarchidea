@@ -1,7 +1,7 @@
 ### Eai! Eu sou o Lucas 🐯
 <br>    
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://intagram.com.br/partynextluq) [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://intagram.com.br/partynextluq)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com.br/partynextluq) [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://instagram.com.br/partynextluq)
 
 <br>
 
