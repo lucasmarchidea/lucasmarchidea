@@ -1,6 +1,6 @@
 <div>
   <h1 align="center">Salve, eu sou o Lucas! 🐲</h1>
-  <p align="center">Estudo Desenvolvimento FullStack na <a href="https://www.rocketseat.com.br"><i>Rocketseat</i></a>, Python para analise de dados na <a href="https://www.datascienceacademy.com.br"><i>Data Science Academy</i></a> e fortaleço os estudos com o <a href="https://www.cursoemvideo.com"><i>Gustavo Guanabara</i></a>!
+  <p align="center">Estudo Desenvolvimento FullStack na <a href="https://www.rocketseat.com.br" target="_blank><i>Rocketseat</i></a>, Python para analise de dados na <a href="https://www.datascienceacademy.com.br" target="_blank"><i>Data Science Academy</i></a> e fortaleço os estudos com o <a href="https://www.cursoemvideo.com" target="_blank><i>Gustavo Guanabara</i></a>!
   
   <p align="center">Dev jr em constante evolução relacionando estudos, projetos e trabalho. E quando for necessário, rato de internet! 😤</h2>
 
