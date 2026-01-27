@@ -23,7 +23,7 @@
 
 ###
 
-<p align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas, hoje foco minha carreira na área de dados.<br><br>🔍 Experiência com Python, SQL, Docker, Airflow, APIs, e Cloud (AWS | GCP). Já atuei com pipelines ETL, automação, manipulação e análise de dados, além de conhecimentos em Tableau e Power BI.<br><br>🧠 Em constante aprendizado e evolução, compartilho aqui meus projetos com código limpo, bem estruturado e documentado como parte do meu portfólio.<br><br>📁 Explore meus repositórios para ver como coloco teoria em prática.</p>
+<p align="left">🎓 Formado em Análise e Desenvolvimento de Sistemas, no momento cursando pós graduação em Data Science na escola preditiva.<br><br>🔍 Experiência com Python, SQL, Docker, Airflow, APIs, e Cloud (AWS | GCP). Já atuei com pipelines ETL, automação, manipulação e análise de dados, além de conhecimentos em Tableau e Power BI.<br><br>🧠 Em constante aprendizado e evolução, compartilho aqui meus projetos com código limpo, bem estruturado e documentado como parte do meu portfólio.<br><br>📁 Explore meus repositórios para ver como coloco teoria em prática.</p>
 
 ###
 
