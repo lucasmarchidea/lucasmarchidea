@@ -28,7 +28,7 @@ AdOps ➡️ Data Science.<br>
 🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b>, atualmente cursando pós-graduação em <b>Data Science</b> na Escola Preditiva.
 <br><br>
 🐍 <b>Python é a língua oficial</b>, focada em análise, pipelines ETL e Cloud (AWS | GCP).<br>
-⚡ Mas eu <b>"arranho" no JS, HTML e CSS</b> para criar ferramentas e extensões que automatizam a rotina e salvam o dia.
+⚡ Mas eu <b>"arranho" no HTML, CSS e JS caso precise.</b>
 <br><br>
 🔍 <b>Stack Principal:</b> Python, SQL, Docker, Airflow, APIs.<br>
 🧠 <b>Filosofia:</b> Se é repetitivo, eu automatizo. Transformo o caos operacional em dados estruturados.
