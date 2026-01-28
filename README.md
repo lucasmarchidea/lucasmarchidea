@@ -8,9 +8,6 @@
   <a href="https://www.linkedin.com/in/lucastiagomarchidea/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="https://discord.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
 </div>
 
 ###
@@ -25,7 +22,7 @@
 
 <p align="left">
 AdOps ➡️ Data Science.<br>
-🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b>, atualmente cursando pós-graduação em <b>Data Science</b> na Escola Preditiva.
+🎓 Formado em <b>Análise e Desenvolvimento de Sistemas</b>, atualmente cursando pós-graduação em <b>Data Science</b>.
 <br><br>
 🐍 <b>Python é a língua oficial</b>, focada em análise, pipelines ETL e Cloud (AWS | GCP).<br>
 ⚡ Mas eu <b>"arranho" no HTML, CSS e JS caso precise.</b>
